@@ -31,6 +31,7 @@
       "label": "Apollo",
       "active": true,
       "moved": 2
+      "description": "A sales intelligence and engagement platform that provides access to a vast database of contacts and companies, helping businesses find and connect with potential customers."
     },
     {
       "quadrant": 0,
@@ -38,6 +39,7 @@
       "label": "Hubspot",
       "active": true,
       "moved": 0
+      "description": "A comprehensive CRM platform offering tools for marketing, sales, customer service, and content management to help businesses grow and manage customer relationships effectively."
     },
     {
       "quadrant": 3,
@@ -45,6 +47,7 @@
       "label": "Lattice",
       "active": true,
       "moved": 0
+      "description": "A people management platform that helps companies align, engage, and grow their employees through performance management, employee engagement surveys, and career development tools."
     },
     {
       "quadrant": 3,
@@ -52,6 +55,7 @@
       "label": "Workramp",
       "active": true,
       "moved": 0
+      "description": "A learning management system that provides training and development solutions for employees, helping organisations onboard, train, and develop their teams effectively."
     },
     {
       "quadrant": 3,
@@ -59,6 +63,7 @@
       "label": "Hibob",
       "active": true,
       "moved": 0
+      "description": "HiBob is a modern HR platform designed for small and medium-sized businesses, offering features like employee management, payroll, and performance tracking to streamline HR processes."
     },
     {
       "quadrant": 2,
@@ -66,6 +71,7 @@
       "label": "Loxo",
       "active": true,
       "moved": 2
+      "description": "Loxo is a talent intelligence platform that combines an applicant tracking system (ATS), customer relationship management (CRM), and AI-driven sourcing to enhance recruitment efficiency."
     },
     {
       "quadrant": 2,
@@ -73,6 +79,7 @@
       "label": "Eightfold.ai",
       "active": true,
       "moved": 2
+      "description": "Eightfold.ai offers a Talent Intelligence Platform that uses AI to help companies with talent acquisition, management, and diversity initiatives by analysing skills and potential."
     },
     {
       "quadrant": 2,
@@ -80,6 +87,7 @@
       "label": "retrain.ai",
       "active": true,
       "moved": 2
+      "description": "Retrain.ai provides an AI-powered talent intelligence platform that helps organisations identify skill gaps, reskill employees, and optimise workforce planning."
     },
     {
        "quadrant": 2,
@@ -87,6 +95,7 @@
       "label": "phenom",
       "active": true,
       "moved": 2
+      "description": "Phenom is a Talent Experience Management (TXM) platform that uses AI to enhance the experiences of candidates, recruiters, employees, and management throughout the talent lifecycle."
     },
     {
       "quadrant": 2,
@@ -94,6 +103,7 @@
       "label": "HireEz",
       "active": true,
       "moved": 2
+      "description": "HireEz (formerly Hiretual) is an AI-powered outbound recruiting platform that helps recruiters source and engage candidates across various channels efficiently."
     },
     {
       "quadrant": 2,
@@ -101,6 +111,7 @@
       "label": "SWARM",
       "active": true,
       "moved": 2
+      "description": "SWARM is a collaborative hiring platform that enables teams to work together on candidate evaluation, interview scheduling, and feedback collection to improve hiring outcomes."
     },
     {
       "quadrant": 2,
@@ -108,6 +119,7 @@
       "label": "Findem.ai",
       "active": true,
       "moved": 2
+      "description": "Findem.ai is a talent acquisition platform that uses AI to help companies discover, engage, and hire candidates based on comprehensive attribute data."
     },
     {
       "quadrant": 0,
@@ -115,6 +127,7 @@
       "label": "Jiminny",
       "active": true,
       "moved": 2
+      "description": "This a conversation intelligence platform. Jiminny's AI turns every email, phone and video call into game-changing insights, revenue intelligence and business-winning behaviours."
     },
     {
       "quadrant": 0,
@@ -122,6 +135,7 @@
       "label": "Gong",
       "active": true,
       "moved": 2
+      "description": "Gong is a revenue intelligence platform that analyses sales conversations and provides insights to improve sales team performance and customer interactions."
     },
     {
       "quadrant": 2,
@@ -129,6 +143,7 @@
       "label": "Gatekeeper",
       "active": true,
       "moved": 2
+      "description": "Gatekeeper is a vendor and contract management solution that helps organisations manage supplier relationships, contracts, and compliance through a centralised platform."
     },
     {
       "quadrant": 2,
@@ -136,6 +151,7 @@
       "label": "Beamery",
       "active": true,
       "moved": 2
+      "description": "Beamery is a talent lifecycle management platform that assists companies in attracting, engaging, and retaining talent through AI-driven insights and automation."
     },
     {
       "quadrant": 2,
@@ -143,6 +159,7 @@
       "label": "Adway",
       "active": true,
       "moved": 2
+      "description": "Adway is an AI-powered social recruitment marketing platform that helps organisations attract talent by leveraging social media and automation. It uses artificial intelligence to create and distribute job adverts on platforms such as LinkedIn, Facebook, and Instagram, targeting the right candidates based on employer branding and recruitment needs."
     },
     {
       "quadrant": 2,
@@ -150,6 +167,7 @@
       "label": "App Cast",
       "active": true,
       "moved": 2
+      "description": "Appcast is a programmatic job advertising platform that helps organisations optimise their recruitment marketing. It automates job advert placements across a network of job sites, using data and algorithms to improve hiring efficiency, reduce costs, and enhance applicant quality."
     },
     {
       "quadrant": 2,
@@ -157,6 +175,7 @@
       "label": "HiredScore",
       "active": true,
       "moved": 2
+      "description": "HiredScore is an AI-powered HR technology that integrates with existing systems to enhance talent acquisition and management through data-driven insights and automation."
     },
     {
       "quadrant": 2,
@@ -164,6 +183,7 @@
       "label": "SkyHive",
       "active": true,
       "moved": 2
+      "description": "SkyHive uses artificial intelligence to provide labor market intelligence, helping organisations with workforce planning, reskilling, and talent acquisition strategies."
     },
     {
       "quadrant": 2,
@@ -171,6 +191,7 @@
       "label": "Noebrain",
       "active": true,
       "moved": 2
+      "description": "Noebrain offers AI-driven solutions for talent assessment and development, focusing on cognitive and behavioral evaluations to enhance hiring and training processes."
     },
     {
       "quadrant": 2,
@@ -178,6 +199,7 @@
       "label": "Reejig",
       "active": true,
       "moved": 2
+      "description": " ."
     },
     {
       "quadrant": 2,
@@ -185,6 +207,7 @@
       "label": "gloat",
       "active": true,
       "moved": 2
+      "description": " ."
     },
     {
       "quadrant": 2,
@@ -192,6 +215,7 @@
       "label": "ArcticShores",
       "active": true,
       "moved": 2
+      "description": " ."
     },
     {
       "quadrant": 2,
@@ -199,6 +223,7 @@
       "label": "Willo",
       "active": true,
       "moved": 0
+      "description": " ."
     },
     {
       "quadrant": 2,
@@ -206,6 +231,7 @@
       "label": "Metaview",
       "active": true,
       "moved": 0
+      "description": " ."
     },
     {
       "quadrant": 3,
@@ -213,6 +239,7 @@
       "label": "Fireflies",
       "active": true,
       "moved": 0
+      "description": " ."
     },
     {
       "quadrant": 3,
@@ -220,6 +247,7 @@
       "label": "Internal Chatbot (Stan)",
       "active": true,
       "moved": 0
+      "description": " ."
     },
     {
       "quadrant": 3,
@@ -227,6 +255,7 @@
       "label": "ChatGPT",
       "active": true,
       "moved": 0
+      "description": " ."
     },
     {
       "quadrant": 3,
@@ -234,6 +263,7 @@
       "label": "Perplexity AI",
       "active": true,
       "moved": 2
+      "description": " ."
     },
     {
       "quadrant": 3,
@@ -241,6 +271,7 @@
       "label": "Vitally.io",
       "active": true,
       "moved": 2
+      "description": " ."
     },
     {
       "quadrant": 3,
@@ -248,6 +279,7 @@
       "label": "Xero",
       "active": true,
       "moved": 0
+      "description": " ."
     },
     {
       "quadrant": 3,
@@ -255,6 +287,7 @@
       "label": "Notion",
       "active": true,
       "moved": 0
+      "description": " ."
     },
     {
       "quadrant": 3,
@@ -262,6 +295,7 @@
       "label": "Lucidchart",
       "active": true,
       "moved": 0
+      "description": " ."
     },
     {
       "quadrant": 3,
@@ -269,6 +303,7 @@
       "label": "Slack",
       "active": true,
       "moved": 0
+      "description": " ."
     },
     {
       "quadrant": 3,
@@ -276,6 +311,7 @@
       "label": " Arcade",
       "active": true,
       "moved": 0
+      "description": " ."
     },
     {
       "quadrant": 2,
@@ -283,6 +319,7 @@
       "label": "LinkedIn Insigts",
       "active": true,
       "moved": 0
+      "description": " ."
     },
     {
       "quadrant": 2,
@@ -290,6 +327,7 @@
       "label": "LinkedIn Recruiter",
       "active": true,
       "moved": 0
+      "description": " ."
     },
     {
       "quadrant": 3,
@@ -297,6 +335,7 @@
       "label": "Asana",
       "active": true,
       "moved": 2
+      "description": " ."
     },
     {
       "quadrant": 3,
@@ -304,6 +343,7 @@
       "label": "Granola.ai",
       "active": true,
       "moved": 2
+      "description": " ."
     },
     {
       "quadrant": 2,
@@ -311,6 +351,7 @@
       "label": "Fetcher.ai",
       "active": true,
       "moved": 2
+      "description": " ."
     },
     {
       "quadrant": 2,
@@ -318,6 +359,7 @@
       "label": "HireVue",
       "active": true,
       "moved": 2
+      "description": " ."
     },
     {
       "quadrant": 2,
@@ -325,6 +367,7 @@
       "label": "Interview.Prep.ai",
       "active": true,
       "moved": 2
+      "description": " ."
     },
     {
       "quadrant": 2,
@@ -332,6 +375,7 @@
       "label": "Candidate.fyi",
       "active": true,
       "moved": 2
+      "description": " ."
     },
     {
       "quadrant": 2,
@@ -339,6 +383,7 @@
       "label": "Huru.ai",
       "active": true,
       "moved": 2
+      "description": " ."
     },
     {
       "quadrant": 2,
@@ -346,6 +391,7 @@
       "label": "Paradox.ai",
       "active": true,
       "moved": 2
+      "description": " ."
     },
     {
       "quadrant": 3,
@@ -353,6 +399,7 @@
       "label": "Storydoc",
       "active": true,
       "moved": 2
+      "description": " ."
     },
     {
       "quadrant": 3,
@@ -360,6 +407,7 @@
       "label": "Pitch",
       "active": true,
       "moved": 2
+      "description": " ."
     },
     {
       "quadrant": 3,
@@ -367,6 +415,7 @@
       "label": "Juro",
       "active": true,
       "moved": 2
+      "description": " ."
     },
     {
       "quadrant": 2,
@@ -374,6 +423,7 @@
       "label": "Test Partnerships",
       "active": true,
       "moved": 0
+      "description": " ."
     },
     {
       "quadrant": 2,
@@ -381,6 +431,7 @@
       "label": "DISC",
       "active": true,
       "moved": 2
+      "description": " ."
     },
     {
       "quadrant": 3,
@@ -388,6 +439,7 @@
       "label": "Miro",
       "active": true,
       "moved": 0
+      "description": " ."
     },
     {
       "quadrant": 2,
@@ -395,6 +447,7 @@
       "label": "TestGorillas",
       "active": true,
       "moved": 2
+      "description": " ."
     },
     {
       "quadrant": 3,
@@ -402,6 +455,7 @@
       "label": "SynthesiaAI",
       "active": true,
       "moved": 0
+      "description": " ."
     },
     {
       "quadrant": 3,
@@ -409,6 +463,7 @@
       "label": "Zapier",
       "active": true,
       "moved": 0
+      "description": " ."
     },
     {
       "quadrant": 2,
@@ -416,6 +471,7 @@
       "label": "AgenticAI Sourcing and Screening AI",
       "active": true,
       "moved": 2
+      "description": " ."
     },
     {
       "quadrant": 1,
@@ -423,6 +479,7 @@
       "label": "Rice Framework",
       "active": true,
       "moved": 0
+      "description": " ."
     },
     {
       "quadrant": 1,
@@ -430,6 +487,7 @@
       "label": "Implementation Framework",
       "active": true,
       "moved": 0
+      "description": " ."
     },
     {
       "quadrant": 1,
@@ -437,6 +495,7 @@
       "label": "Project Management Framework",
       "active": true,
       "moved": 0
+      "description": " ."
     }
   ]
 }
