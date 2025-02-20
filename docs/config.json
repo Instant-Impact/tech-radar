@@ -31,6 +31,7 @@
       "label": "Apollo",
       "active": true,
       "moved": 2
+      "description": "TEST."
     },
     {
       "quadrant": 0,
@@ -38,6 +39,7 @@
       "label": "Hubspot",
       "active": true,
       "moved": 0
+      "description": "TEST."
     },
     {
       "quadrant": 3,
