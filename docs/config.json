@@ -54,377 +54,431 @@
       "ring": 0,
       "label": "Workramp",
       "active": true,
-      "moved": 0
+      "moved": 0,
+      "description": "A people management platform that helps companies align, engage, and grow their employees through performance management, employee engagement surveys, and career development tools."
     },
     {
       "quadrant": 3,
       "ring": 0,
       "label": "Hibob",
       "active": true,
-      "moved": 0
+      "moved": 0,
+      "description": "A people management platform that helps companies align, engage, and grow their employees through performance management, employee engagement surveys, and career development tools."
     },
     {
       "quadrant": 2,
       "ring": 3,
       "label": "Loxo",
       "active": true,
-      "moved": 2
+      "moved": 2,
+      "description": "A people management platform that helps companies align, engage, and grow their employees through performance management, employee engagement surveys, and career development tools."
     },
     {
       "quadrant": 2,
       "ring": 3,
       "label": "Eightfold.ai",
       "active": true,
-      "moved": 2
+      "moved": 2,
+      "description": "A people management platform that helps companies align, engage, and grow their employees through performance management, employee engagement surveys, and career development tools."
     },
     {
       "quadrant": 2,
       "ring": 3,
       "label": "retrain.ai",
       "active": true,
-      "moved": 2
+      "moved": 2,
+      "description": "A people management platform that helps companies align, engage, and grow their employees through performance management, employee engagement surveys, and career development tools."
     },
     {
        "quadrant": 2,
       "ring": 3,
       "label": "phenom",
       "active": true,
-      "moved": 2
+      "moved": 2,
+      "description": "A people management platform that helps companies align, engage, and grow their employees through performance management, employee engagement surveys, and career development tools."
     },
     {
       "quadrant": 2,
       "ring": 3,
       "label": "HireEz",
       "active": true,
-      "moved": 2
+      "moved": 2,
+      "description": "A people management platform that helps companies align, engage, and grow their employees through performance management, employee engagement surveys, and career development tools."
     },
     {
       "quadrant": 2,
       "ring": 3,
       "label": "SWARM",
       "active": true,
-      "moved": 2
+      "moved": 2,
+      "description": "A people management platform that helps companies align, engage, and grow their employees through performance management, employee engagement surveys, and career development tools."
     },
     {
       "quadrant": 2,
       "ring": 3,
       "label": "Findem.ai",
       "active": true,
-      "moved": 2
+      "moved": 2,
+      "description": "A people management platform that helps companies align, engage, and grow their employees through performance management, employee engagement surveys, and career development tools."
     },
     {
       "quadrant": 0,
       "ring": 3,
       "label": "Jiminny",
       "active": true,
-      "moved": 2
+      "moved": 2,
+      "description": "A people management platform that helps companies align, engage, and grow their employees through performance management, employee engagement surveys, and career development tools."
     },
     {
       "quadrant": 0,
       "ring": 3,
       "label": "Gong",
       "active": true,
-      "moved": 2
+      "moved": 2,
+      "description": "A people management platform that helps companies align, engage, and grow their employees through performance management, employee engagement surveys, and career development tools."
     },
     {
       "quadrant": 2,
       "ring": 3,
       "label": "Gatekeeper",
       "active": true,
-      "moved": 2
+      "moved": 2,
+      "description": "A people management platform that helps companies align, engage, and grow their employees through performance management, employee engagement surveys, and career development tools."
     },
     {
       "quadrant": 2,
       "ring": 3,
       "label": "Beamery",
       "active": true,
-      "moved": 2
+      "moved": 2,
+      "description": "A people management platform that helps companies align, engage, and grow their employees through performance management, employee engagement surveys, and career development tools."
     },
     {
       "quadrant": 2,
       "ring": 1,
       "label": "Adway",
       "active": true,
-      "moved": 2
+      "moved": 2,
+      "description": "A people management platform that helps companies align, engage, and grow their employees through performance management, employee engagement surveys, and career development tools."
     },
     {
       "quadrant": 2,
       "ring": 1,
       "label": "App Cast",
       "active": true,
-      "moved": 2
+      "moved": 2,
+      "description": "A people management platform that helps companies align, engage, and grow their employees through performance management, employee engagement surveys, and career development tools."
     },
     {
       "quadrant": 2,
       "ring": 3,
       "label": "HiredScore",
       "active": true,
-      "moved": 2
+      "moved": 2,
+      "description": "A people management platform that helps companies align, engage, and grow their employees through performance management, employee engagement surveys, and career development tools."
     },
     {
       "quadrant": 2,
       "ring": 3,
       "label": "SkyHive",
       "active": true,
-      "moved": 2
+      "moved": 2,
+      "description": "A people management platform that helps companies align, engage, and grow their employees through performance management, employee engagement surveys, and career development tools."
     },
     {
       "quadrant": 2,
       "ring": 3,
       "label": "Noebrain",
       "active": true,
-      "moved": 2
+      "moved": 2,
+      "description": "A people management platform that helps companies align, engage, and grow their employees through performance management, employee engagement surveys, and career development tools."
     },
     {
       "quadrant": 2,
       "ring": 3,
       "label": "Reejig",
       "active": true,
-      "moved": 2
+      "moved": 2,
+      "description": "A people management platform that helps companies align, engage, and grow their employees through performance management, employee engagement surveys, and career development tools."
     },
     {
       "quadrant": 2,
       "ring": 3,
       "label": "gloat",
       "active": true,
-      "moved": 2
+      "moved": 2,
+      "description": "A people management platform that helps companies align, engage, and grow their employees through performance management, employee engagement surveys, and career development tools."
     },
     {
       "quadrant": 2,
       "ring": 0,
       "label": "ArcticShores",
       "active": true,
-      "moved": 2
+      "moved": 2,
+      "description": "A people management platform that helps companies align, engage, and grow their employees through performance management, employee engagement surveys, and career development tools."
     },
     {
       "quadrant": 2,
       "ring": 0,
       "label": "Willo",
       "active": true,
-      "moved": 0
+      "moved": 0,
+      "description": "A people management platform that helps companies align, engage, and grow their employees through performance management, employee engagement surveys, and career development tools."
     },
     {
       "quadrant": 2,
       "ring": 0,
       "label": "Metaview",
       "active": true,
-      "moved": 0
+      "moved": 0,
+      "description": "A people management platform that helps companies align, engage, and grow their employees through performance management, employee engagement surveys, and career development tools."
     },
     {
       "quadrant": 3,
       "ring": 0,
       "label": "Fireflies",
       "active": true,
-      "moved": 0
+      "moved": 0,
+      "description": "A people management platform that helps companies align, engage, and grow their employees through performance management, employee engagement surveys, and career development tools."
     },
     {
       "quadrant": 3,
       "ring": 0,
       "label": "Internal Chatbot (Stan)",
       "active": true,
-      "moved": 0
+      "moved": 0,
+      "description": "A people management platform that helps companies align, engage, and grow their employees through performance management, employee engagement surveys, and career development tools."
     },
     {
       "quadrant": 3,
       "ring": 0,
       "label": "ChatGPT",
       "active": true,
-      "moved": 0
+      "moved": 0,
+      "description": "A people management platform that helps companies align, engage, and grow their employees through performance management, employee engagement surveys, and career development tools."
     },
     {
       "quadrant": 3,
       "ring": 3,
       "label": "Perplexity AI",
       "active": true,
-      "moved": 2
+      "moved": 2,
+      "description": "A people management platform that helps companies align, engage, and grow their employees through performance management, employee engagement surveys, and career development tools."
     },
     {
       "quadrant": 3,
       "ring": 3,
       "label": "Vitally.io",
       "active": true,
-      "moved": 2
+      "moved": 2,
+      "description": "A people management platform that helps companies align, engage, and grow their employees through performance management, employee engagement surveys, and career development tools."
     },
     {
       "quadrant": 3,
       "ring": 0,
       "label": "Xero",
       "active": true,
-      "moved": 0
+      "moved": 0,
+      "description": "A people management platform that helps companies align, engage, and grow their employees through performance management, employee engagement surveys, and career development tools."
     },
     {
       "quadrant": 3,
       "ring": 0,
       "label": "Notion",
       "active": true,
-      "moved": 0
+      "moved": 0,
+      "description": "A people management platform that helps companies align, engage, and grow their employees through performance management, employee engagement surveys, and career development tools."
     },
     {
       "quadrant": 3,
       "ring": 0,
       "label": "Lucidchart",
       "active": true,
-      "moved": 0
+      "moved": 0,
+      "description": "A people management platform that helps companies align, engage, and grow their employees through performance management, employee engagement surveys, and career development tools."
     },
     {
       "quadrant": 3,
       "ring": 0,
       "label": "Slack",
       "active": true,
-      "moved": 0
+      "moved": 0,
+      "description": "A people management platform that helps companies align, engage, and grow their employees through performance management, employee engagement surveys, and career development tools."
     },
     {
       "quadrant": 3,
       "ring": 0,
       "label": " Arcade",
       "active": true,
-      "moved": 0
+      "moved": 0,
+      "description": "A people management platform that helps companies align, engage, and grow their employees through performance management, employee engagement surveys, and career development tools."
     },
     {
       "quadrant": 2,
       "ring": 0,
       "label": "LinkedIn Insigts",
       "active": true,
-      "moved": 0
+      "moved": 0,
+      "description": "A people management platform that helps companies align, engage, and grow their employees through performance management, employee engagement surveys, and career development tools."
     },
     {
       "quadrant": 2,
       "ring": 0,
       "label": "LinkedIn Recruiter",
       "active": true,
-      "moved": 0
+      "moved": 0,
+      "description": "A people management platform that helps companies align, engage, and grow their employees through performance management, employee engagement surveys, and career development tools."
     },
     {
       "quadrant": 3,
       "ring": 3,
       "label": "Asana",
       "active": true,
-      "moved": 2
+      "moved": 2,
+      "description": "A people management platform that helps companies align, engage, and grow their employees through performance management, employee engagement surveys, and career development tools."
     },
     {
       "quadrant": 3,
       "ring": 3,
       "label": "Granola.ai",
       "active": true,
-      "moved": 2
+      "moved": 2,
+      "description": "A people management platform that helps companies align, engage, and grow their employees through performance management, employee engagement surveys, and career development tools."
     },
     {
       "quadrant": 2,
       "ring": 3,
       "label": "Fetcher.ai",
       "active": true,
-      "moved": 2
+      "moved": 2,
+      "description": "A people management platform that helps companies align, engage, and grow their employees through performance management, employee engagement surveys, and career development tools."
     },
     {
       "quadrant": 2,
       "ring": 3,
       "label": "HireVue",
       "active": true,
-      "moved": 2
+      "moved": 2,
+      "description": "A people management platform that helps companies align, engage, and grow their employees through performance management, employee engagement surveys, and career development tools."
     },
     {
       "quadrant": 2,
       "ring": 3,
       "label": "Interview.Prep.ai",
       "active": true,
-      "moved": 2
+      "moved": 2,
+      "description": "A people management platform that helps companies align, engage, and grow their employees through performance management, employee engagement surveys, and career development tools."
     },
     {
       "quadrant": 2,
       "ring": 3,
       "label": "Candidate.fyi",
       "active": true,
-      "moved": 2
+      "moved": 2,
+      "description": "A people management platform that helps companies align, engage, and grow their employees through performance management, employee engagement surveys, and career development tools."
     },
     {
       "quadrant": 2,
       "ring": 3,
       "label": "Huru.ai",
       "active": true,
-      "moved": 2
+      "moved": 2,
+      "description": "A people management platform that helps companies align, engage, and grow their employees through performance management, employee engagement surveys, and career development tools."
     },
     {
       "quadrant": 2,
       "ring": 3,
       "label": "Paradox.ai",
       "active": true,
-      "moved": 2
+      "moved": 2,
+      "description": "A people management platform that helps companies align, engage, and grow their employees through performance management, employee engagement surveys, and career development tools."
     },
     {
       "quadrant": 3,
       "ring": 3,
       "label": "Storydoc",
       "active": true,
-      "moved": 2
+      "moved": 2,
+      "description": "A people management platform that helps companies align, engage, and grow their employees through performance management, employee engagement surveys, and career development tools."
     },
     {
       "quadrant": 3,
       "ring": 3,
       "label": "Pitch",
       "active": true,
-      "moved": 2
+      "moved": 2,
+      "description": "A people management platform that helps companies align, engage, and grow their employees through performance management, employee engagement surveys, and career development tools."
     },
     {
       "quadrant": 3,
       "ring": 3,
       "label": "Juro",
       "active": true,
-      "moved": 2
+      "moved": 2,
+      "description": "A people management platform that helps companies align, engage, and grow their employees through performance management, employee engagement surveys, and career development tools."
     },
     {
       "quadrant": 2,
       "ring": 0,
       "label": "Test Partnerships",
       "active": true,
-      "moved": 0
+      "moved": 0,
+      "description": "A people management platform that helps companies align, engage, and grow their employees through performance management, employee engagement surveys, and career development tools."
     },
     {
       "quadrant": 2,
       "ring": 3,
       "label": "DISC",
       "active": true,
-      "moved": 2
+      "moved": 2,
+      "description": "A people management platform that helps companies align, engage, and grow their employees through performance management, employee engagement surveys, and career development tools."
     },
     {
       "quadrant": 3,
       "ring": 0,
       "label": "Miro",
       "active": true,
-      "moved": 0
+      "moved": 0,
+      "description": "A people management platform that helps companies align, engage, and grow their employees through performance management, employee engagement surveys, and career development tools."
     },
     {
       "quadrant": 2,
       "ring": 3,
       "label": "TestGorillas",
       "active": true,
-      "moved": 2
+      "moved": 2,
+      "description": "A people management platform that helps companies align, engage, and grow their employees through performance management, employee engagement surveys, and career development tools."
     },
     {
       "quadrant": 3,
       "ring": 1,
       "label": "SynthesiaAI",
       "active": true,
-      "moved": 0
+      "moved": 0,
+      "description": "A people management platform that helps companies align, engage, and grow their employees through performance management, employee engagement surveys, and career development tools."
     },
     {
       "quadrant": 3,
       "ring": 1,
       "label": "Zapier",
       "active": true,
-      "moved": 0
+      "moved": 0,
+      "description": "A people management platform that helps companies align, engage, and grow their employees through performance management, employee engagement surveys, and career development tools."
     },
     {
       "quadrant": 2,
       "ring": 2,
       "label": "AgenticAI Sourcing and Screening AI",
       "active": true,
-      "moved": 2
+      "moved": 2,
+      "description": "A people management platform that helps companies align, engage, and grow their employees through performance management, employee engagement surveys, and career development tools."
     },
     {
       "quadrant": 1,
       "ring": 0,
       "label": "Rice Framework",
       "active": true,
+      "description": "A people management platform that helps companies align, engage, and grow their employees through performance management, employee engagement surveys, and career development tools."
       "moved": 0
     },
     {
@@ -432,14 +486,16 @@
       "ring": 0,
       "label": "Implementation Framework",
       "active": true,
-      "moved": 0
+      "moved": 0,
+      "description": "A people management platform that helps companies align, engage, and grow their employees through performance management, employee engagement surveys, and career development tools."
     },
     {
       "quadrant": 1,
       "ring": 0,
       "label": "Project Management Framework",
       "active": true,
-      "moved": 0
+      "moved": 0,
+      "description": "A people management platform that helps companies align, engage, and grow their employees through performance management, employee engagement surveys, and career development tools."
     }
   ]
 }
