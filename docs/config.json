@@ -31,7 +31,7 @@
       "label": "Apollo",
       "active": true,
       "moved": 2,
-      "description": "TEST."
+      "description": "A sales intelligence and engagement platform that provides access to a vast database of contacts and companies, helping businesses find and connect with potential customers."
     },
     {
       "quadrant": 0,
@@ -39,14 +39,15 @@
       "label": "Hubspot",
       "active": true,
       "moved": 0,
-      "description": "TEST."
+      "description": "A comprehensive CRM platform offering tools for marketing, sales, customer service, and content management to help businesses grow and manage customer relationships effectively."
     },
     {
       "quadrant": 3,
       "ring": 0,
       "label": "Lattice",
       "active": true,
-      "moved": 0
+      "moved": 0,
+      "description": "A people management platform that helps companies align, engage, and grow their employees through performance management, employee engagement surveys, and career development tools."
     },
     {
       "quadrant": 3,
