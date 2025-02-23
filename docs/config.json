@@ -54,14 +54,16 @@
       "ring": 0,
       "label": "Workramp",
       "active": true,
-      "moved": 0
+      "moved": 0,
+      "description": "A learning management system that provides training and development solutions for employees, helping organisations onboard, train, and develop their teams effectively."
     },
     {
       "quadrant": 3,
       "ring": 0,
       "label": "Hibob",
       "active": true,
-      "moved": 0
+      "moved": 0,
+      "description": "Test."
     },
     {
       "quadrant": 2,
