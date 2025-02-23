@@ -63,7 +63,7 @@
       "label": "Hibob",
       "active": true,
       "moved": 0,
-      "description": "Test."
+      "description": "HiBob is a modern HR platform designed for small and medium-sized businesses, offering features like employee management, payroll, and performance tracking to streamline HR processes."
     },
     {
       "quadrant": 2,
@@ -71,7 +71,7 @@
       "label": "Loxo",
       "active": true,
       "moved": 2,
-      "description": "Test."
+      "description": "Loxo is a talent intelligence platform that combines an applicant tracking system (ATS), customer relationship management (CRM), and AI-driven sourcing to enhance recruitment efficiency."
     },
     {
       "quadrant": 2,
@@ -79,7 +79,7 @@
       "label": "Eightfold.ai",
       "active": true,
       "moved": 2,
-      "description": "Test."
+      "description": "Eightfold.ai offers a Talent Intelligence Platform that uses AI to help companies with talent acquisition, management, and diversity initiatives by analysing skills and potential."
     },
     {
       "quadrant": 2,
@@ -87,7 +87,7 @@
       "label": "retrain.ai",
       "active": true,
       "moved": 2,     
-      "description": "Test."
+      "description": "Retrain.ai provides an AI-powered talent intelligence platform that helps organisations identify skill gaps, reskill employees, and optimise workforce planning."
     },
     {
       "quadrant": 2,
@@ -95,7 +95,7 @@
       "label": "phenom",
       "active": true,
       "moved": 2,
-      "description": "Test."
+      "description": "Phenom is a Talent Experience Management (TXM) platform that uses AI to enhance the experiences of candidates, recruiters, employees, and management throughout the talent lifecycle."
     },
     {
       "quadrant": 2,
@@ -103,7 +103,7 @@
       "label": "HireEz",
       "active": true,
       "moved": 2,
-      "description": "Test."
+      "description": "HireEz (formerly Hiretual) is an AI-powered outbound recruiting platform that helps recruiters source and engage candidates across various channels efficiently."
     },
     {
       "quadrant": 2,
@@ -111,7 +111,7 @@
       "label": "SWARM",
       "active": true,
       "moved": 2,
-      "description": "Test."
+      "description": "SWARM is a collaborative hiring platform that enables teams to work together on candidate evaluation, interview scheduling, and feedback collection to improve hiring outcomes."
     },
     {
       "quadrant": 2,
@@ -119,7 +119,7 @@
       "label": "Findem.ai",
       "active": true,
       "moved": 2,
-      "description": "Test."
+      "description": "Findem.ai is a talent acquisition platform that uses AI to help companies discover, engage, and hire candidates based on comprehensive attribute data."
     },
     {
       "quadrant": 0,
@@ -127,7 +127,7 @@
       "label": "Jiminny",
       "active": true,
       "moved": 2,
-      "description": "Test."
+      "description": "This a conversation intelligence platform. Jiminny's AI turns every email, phone and video call into game-changing insights, revenue intelligence and business-winning behaviours."
     },
     {
       "quadrant": 0,
@@ -135,7 +135,7 @@
       "label": "Gong",
       "active": true,
       "moved": 2,
-      "description": "Test."
+      "description": "Gong is a revenue intelligence platform that analyses sales conversations and provides insights to improve sales team performance and customer interactions."
     },
     {
       "quadrant": 2,
@@ -143,7 +143,7 @@
       "label": "Gatekeeper",
       "active": true,
       "moved": 2, 
-      "description": "Test."
+      "description": "Gatekeeper is a vendor and contract management solution that helps organisations manage supplier relationships, contracts, and compliance through a centralised platform."
     },
     {
       "quadrant": 2,
@@ -151,7 +151,7 @@
       "label": "Beamery",
       "active": true,
       "moved": 2,
-      "description": "Test."
+      "description": "Beamery is a talent lifecycle management platform that assists companies in attracting, engaging, and retaining talent through AI-driven insights and automation."
     },
     {
       "quadrant": 2,
@@ -159,7 +159,7 @@
       "label": "Adway",
       "active": true,
       "moved": 2,
-      "description": "Test."
+      "description": "Adway is a talent acquisition platform that uses artificial intelligence (AI) to help companies find candidates on social media. Adway integrates with a company's career page and applicant tracking system (ATS)."
     },
     {
       "quadrant": 2,
@@ -167,7 +167,7 @@
       "label": "App Cast",
       "active": true,
       "moved": 2,
-      "description": "Test."
+      "description": "Appcast is a service that helps companies post job openings and manage applications on mobile devices. It also helps companies attract talent by using data and technology."
     },
     {
       "quadrant": 2,
@@ -175,7 +175,7 @@
       "label": "HiredScore",
       "active": true,
       "moved": 2,
-      "description": "Test."
+      "description": "HiredScore is an AI-powered HR technology that integrates with existing systems to enhance talent acquisition and management through data-driven insights and automation."
     },
     {
       "quadrant": 2,
@@ -183,7 +183,7 @@
       "label": "SkyHive",
       "active": true,
       "moved": 2,
-      "description": "Test."
+      "description": "SkyHive uses artificial intelligence to provide labor market intelligence, helping organisations with workforce planning, reskilling, and talent acquisition strategies."
     },
     {
       "quadrant": 2,
@@ -191,7 +191,7 @@
       "label": "Noebrain",
       "active": true,
       "moved": 2,
-      "description": "Test."
+      "description": "Noebrain offers AI-driven solutions for talent assessment and development, focusing on cognitive and behavioral evaluations to enhance hiring and training processes."
     },
     {
       "quadrant": 2,
@@ -199,7 +199,7 @@
       "label": "Reejig",
       "active": true,
       "moved": 2,
-      "description": "Test."
+      "description": "Reejig is a workforce intelligence platform that uses ethical AI to provide insights into workforce skills, enabling better talent mobility and reskilling initiatives."
     },
     {
       "quadrant": 2,
@@ -207,7 +207,7 @@
       "label": "gloat",
       "active": true,
       "moved": 2,
-      "description": "Test."
+      "description": "Gloat offers an AI-powered talent marketplace that connects employees with internal opportunities, fostering career development and organisational agility."
     },
     {
       "quadrant": 2,
@@ -215,7 +215,7 @@
       "label": "ArcticShores",
       "active": true,
       "moved": 2,
-      "description": "Test."
+      "description": "Arctic Shores provides behavior-based assessments that combine neuroscience, AI, and game technology to evaluate candidates' potential and fit for roles."
     },
     {
       "quadrant": 2,
@@ -223,7 +223,7 @@
       "label": "Willo",
       "active": true,
       "moved": 0,
-      "description": "Test."
+      "description": "Willo is a video interviewing platform that allows recruiters to conduct pre-recorded video interviews, enabling asynchronous candidate evaluation while saving time."
     },
     {
       "quadrant": 2,
@@ -231,7 +231,7 @@
       "label": "Metaview",
       "active": true,
       "moved": 0,
-      "description": "Test."
+      "description": "Metaview automates the process of transcribing interviews and generating summaries. It provides recruiters with structured feedback and actionable insights, ensuring a more objective and consistent hiring process."
     },
     {
       "quadrant": 3,
@@ -239,7 +239,7 @@
       "label": "Fireflies",
       "active": true,
       "moved": 0,
-      "description": "Test."
+      "description": "An AI meeting assistant that records, transcribes, and analyses meetings, making it easier to capture and review important information from discussions."
     },
     {
       "quadrant": 3,
@@ -247,7 +247,7 @@
       "label": "Internal Chatbot (Stan)",
       "active": true,
       "moved": 0,
-      "description": "Test."
+      "description": "An internal chatbot named Stan designed to assist employees with various tasks, answer questions, and provide support within our organisation."
     },
     {
       "quadrant": 3,
@@ -255,7 +255,7 @@
       "label": "ChatGPT",
       "active": true,
       "moved": 0,
-      "description": "Test."
+      "description": "An AI language model developed by OpenAI that can generate human-like text, enabling applications such as chatbots, content creation, and more."
     },
     {
       "quadrant": 3,
@@ -263,7 +263,7 @@
       "label": "Perplexity AI",
       "active": true,
       "moved": 2,
-      "description": "Test."
+      "description": "Perplexity is a free AI search engine designed to revolutionize the way you discover information. Ask any question, and it searches the internet."
     },
     {
       "quadrant": 3,
@@ -271,7 +271,7 @@
       "label": "Vitally.io",
       "active": true,
       "moved": 2,
-      "description": "Test."
+      "description": "Vitally.io is a customer success platform that helps teams organize customer data, automate workflows, and generate insights."
     },
     {
       "quadrant": 3,
@@ -279,7 +279,7 @@
       "label": "Xero",
       "active": true,
       "moved": 0,
-      "description": "Test."
+      "description": "A cloud-based accounting software platform designed for small and medium-sized businesses, offering tools for invoicing, expense management, and financial reporting."
     },
     {
       "quadrant": 3,
@@ -287,7 +287,7 @@
       "label": "Notion",
       "active": true,
       "moved": 0,
-      "description": "Test."
+      "description": "An all-in-one workspace that combines note-taking, task management, and database functions, allowing teams to collaborate and organise their work efficiently."
     },
     {
       "quadrant": 3,
@@ -295,7 +295,7 @@
       "label": "Lucidchart",
       "active": true,
       "moved": 0,
-      "description": "Test."
+      "description": "A web-based diagramming tool that enables users to create flowcharts, organisational charts, and other visual representations to facilitate understanding and collaboration."
     },
     {
       "quadrant": 3,
@@ -303,7 +303,7 @@
       "label": "Slack",
       "active": true,
       "moved": 0,
-      "description": "Test."
+      "description": "A messaging platform designed for teams, offering real-time communication, file sharing, and integration with various tools to enhance collaboration."
     },
     {
       "quadrant": 3,
@@ -311,7 +311,7 @@
       "label": " Arcade",
       "active": true,
       "moved": 0,
-      "description": "Test."
+      "description": "A platform that allows businesses to create interactive demos and tutorials to showcase their products, enhancing customer engagement and understanding."
     },
     {
       "quadrant": 2,
@@ -319,7 +319,7 @@
       "label": "LinkedIn Insigts",
       "active": true,
       "moved": 0,
-      "description": "Test."
+      "description": "LinkedIn Insights provides data and analytics on talent pools, industry trends, and company benchmarks to inform recruitment and workforce planning strategies."
     },
     {
       "quadrant": 2,
@@ -327,7 +327,7 @@
       "label": "LinkedIn Recruiter",
       "active": true,
       "moved": 0,
-      "description": "Test."
+      "description": "LinkedIn Recruiter is a talent search and recruitment tool that allows hiring professionals to find, connect with, and manage potential candidates on LinkedIn."
     },
     {
       "quadrant": 3,
@@ -335,7 +335,7 @@
       "label": "Asana",
       "active": true,
       "moved": 2,
-      "description": "Test."
+      "description": "A project management tool that helps teams organise and manage their work, track progress, and collaborate effectively to achieve their goals."
     },
     {
       "quadrant": 3,
@@ -343,7 +343,7 @@
       "label": "Granola.ai",
       "active": true,
       "moved": 2,
-      "description": "Test."
+      "description": "Granola.ai is an AI tool designed for recruiters to capture and organise notes during interviews. It transcribes conversations in real-time and provides summaries, saving time and improving accuracy."
     },
     {
       "quadrant": 2,
@@ -351,7 +351,7 @@
       "label": "Fetcher.ai",
       "active": true,
       "moved": 2,
-      "description": "Test."
+      "description": "Fetcher.ai is a recruitment platform that combines AI with human expertise to automate candidate sourcing and outreach, helping companies find and engage top talent efficiently."
     },
     {
       "quadrant": 2,
@@ -359,7 +359,7 @@
       "label": "HireVue",
       "active": true,
       "moved": 2,
-      "description": "Test."
+      "description": "HireVue integrates video interviewing with AI-driven assessments and scheduling tools. It streamlines the recruitment process, offering features like automated candidate evaluations and predictive analytics."
     },
     {
       "quadrant": 2,
@@ -367,7 +367,7 @@
       "label": "Interview.Prep.ai",
       "active": true,
       "moved": 2,
-      "description": "Test."
+      "description": "Interview.Prep.ai provides AI-driven tools to help candidates prepare for interviews by simulating real interview scenarios and offering feedback on performance."
     },
     {
       "quadrant": 2,
@@ -375,7 +375,7 @@
       "label": "Candidate.fyi",
       "active": true,
       "moved": 2,
-      "description": "Test."
+      "description": "Candidate.fyi is a platform that helps companies improve the candidate experience by providing tools for interview preparation, feedback collection, and process transparency."
     },
     {
       "quadrant": 2,
@@ -383,7 +383,7 @@
       "label": "Huru.ai",
       "active": true,
       "moved": 2,
-      "description": "Test."
+      "description": "Huru.ai provides an AI-powered interview preparation app that helps candidates practice and improve their interview skills through simulated questions and feedback."
     },
     {
       "quadrant": 2,
@@ -391,7 +391,7 @@
       "label": "Paradox.ai",
       "active": true,
       "moved": 2,
-      "description": "Test."
+      "description": "Paradox.ai offers an AI assistant named Olivia that automates recruiting tasks such as screening, scheduling, and candidate communication to enhance efficiency."
     },
     {
       "quadrant": 3,
@@ -399,7 +399,7 @@
       "label": "Storydoc",
       "active": true,
       "moved": 2,
-      "description": "Test."
+      "description": "Storydoc is a platform that enables users to create interactive and engaging presentations, transforming static content into dynamic stories to enhance audience engagement."
     },
     {
       "quadrant": 3,
@@ -407,7 +407,7 @@
       "label": "Pitch",
       "active": true,
       "moved": 2,
-      "description": "Test."
+      "description": "Pitch is a collaborative presentation software that enables teams to create, edit, and share professional presentations with real-time collaboration features."
     },
     {
       "quadrant": 3,
@@ -415,7 +415,7 @@
       "label": "Juro",
       "active": true,
       "moved": 2,
-      "description": "Test."
+      "description": "Juro is a contract automation platform that streamlines the creation, execution, and management of contracts, offering a collaborative workspace for legal and business teams."
     },
     {
       "quadrant": 2,
@@ -423,7 +423,7 @@
       "label": "Test Partnerships",
       "active": true,
       "moved": 0,
-      "description": "Test."
+      "description": "Test Partnerships provides psychometric assessments and aptitude tests to assist companies in making informed hiring decisions by evaluating candidates' skills and abilities."
     },
     {
       "quadrant": 2,
@@ -431,7 +431,7 @@
       "label": "DISC",
       "active": true,
       "moved": 2,
-      "description": "Test."
+      "description": "DISC is a behavioral assessment tool that helps individuals and teams understand communication styles and improve workplace interactions by analysing personality traits."
     },
     {
       "quadrant": 3,
@@ -439,7 +439,7 @@
       "label": "Miro",
       "active": true,
       "moved": 0,
-      "description": "Test."
+      "description": "Miro is an online collaborative whiteboard platform that enables teams to brainstorm, plan, and collaborate in real-time, enhancing remote and in-person workflows."
     },
     {
       "quadrant": 2,
@@ -447,7 +447,7 @@
       "label": "TestGorillas",
       "active": true,
       "moved": 2,
-      "description": "Test."
+      "description": "TestGorilla offers a range of pre-employment tests to help companies assess candidates' skills, personality, and suitability for roles, aiding in data-driven hiring decisions."
     },
     {
       "quadrant": 3,
@@ -455,7 +455,7 @@
       "label": "SynthesiaAI",
       "active": true,
       "moved": 0,
-      "description": "Test."
+      "description": "Synthesia is an advanced form of an Artificial Intelligence platform that converts text into a real-looking video with virtual characters."
     },
     {
       "quadrant": 3,
@@ -463,7 +463,7 @@
       "label": "Zapier",
       "active": true,
       "moved": 0,
-      "description": "Test."
+      "description": "An automation tool that connects different apps and services, allowing users to automate workflows without the need for coding."
     },
     {
       "quadrant": 2,
@@ -471,7 +471,7 @@
       "label": "AgenticAI Sourcing and Screening AI",
       "active": true,
       "moved": 2,
-      "description": "Test."
+      "description": "These AI agents combine sourcing and screening capabilities to streamline recruitment. They autonomously identify and engage potential candidates, evaluate their qualifications, and recommend the most suitable matches."
     },
     {
       "quadrant": 1,
@@ -479,7 +479,7 @@
       "label": "Rice Framework",
       "active": true,
       "moved": 0,
-      "description": "Test."
+      "description": "A prioritisation framework used in product management that stands for Reach, Impact, Confidence, and Effort, helping teams decide which projects to focus on to maximise impact."
     },
     {
       "quadrant": 1,
@@ -487,7 +487,7 @@
       "label": "Implementation Framework",
       "active": true,
       "moved": 0,
-      "description": "Test."
+      "description": "A structured, scalable implementation framework and methodology to standardise client-related onboardings, ensuring consistency, enhancing collaboration, and establishing clear accountability across teams."
     },
     {
       "quadrant": 1,
@@ -495,7 +495,7 @@
       "label": "Project Management Framework",
       "active": true,
       "moved": 0,
-      "description": "Test."
+      "description": "A structured, scalable project management framework and methodology to standardise client-related projects, ensuring consistency, enhancing collaboration, and establishing clear accountability across teams."
     }
   ]
 }
