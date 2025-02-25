@@ -449,10 +449,9 @@ function radar_visualization(config) {
         .attr('class', 'tech-tooltip')
         .style('opacity', 0);
 
-      // Add content to tooltip
+      // Add content to tooltip      
       tooltip.html(`
         <h3>${d.label}</h3>
-        <div class="category">${d.quadrant} - ${d.ring}</div>
         ${d.description ? `<div class="description">${d.description}</div>` : ''}
         ${d.link ? `<p><a href="${d.link}" target="_blank">Learn more</a></p>` : ''}
       `);
