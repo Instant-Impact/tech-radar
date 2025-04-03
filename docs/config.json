@@ -474,6 +474,30 @@
       "description": "These AI agents combine sourcing and screening capabilities to streamline recruitment. They autonomously identify and engage potential candidates, evaluate their qualifications, and recommend the most suitable matches."
     },
     {
+      "quadrant": 2,
+      "ring": 2,
+      "label": "Bryq",
+      "active": true,
+      "moved": 2,
+      "description": "Bryq is an AI-driven talent assessment platform that helps companies with candidate screening, hiring, and internal talent management."
+    },
+    {
+      "quadrant": 2,
+      "ring": 2,
+      "label": "Verveo",
+      "active": true,
+      "moved": 2,
+      "description": "Vervoe is a skills-based hiring platform that replaces traditional CV screening with job-specific simulations and assessments."
+    },
+    {
+      "quadrant": 2,
+      "ring": 2,
+      "label": "HiPeople",
+      "active": true,
+      "moved": 2,
+      "description": "HiPeople is a candidate assessment and reference-checking platform that provides automated, in-depth insights on job applicants."
+    },
+    {
       "quadrant": 1,
       "ring": 0,
       "label": "Rice Framework",
