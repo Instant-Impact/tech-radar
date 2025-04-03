@@ -108,14 +108,6 @@
     {
       "quadrant": 2,
       "ring": 3,
-      "label": "SWARM",
-      "active": true,
-      "moved": 2,
-      "description": "SWARM is a collaborative hiring platform that enables teams to work together on candidate evaluation, interview scheduling, and feedback collection to improve hiring outcomes."
-    },
-    {
-      "quadrant": 2,
-      "ring": 3,
       "label": "Findem.ai",
       "active": true,
       "moved": 2,
@@ -200,14 +192,6 @@
       "active": true,
       "moved": 2,
       "description": "Reejig is a workforce intelligence platform that uses ethical AI to provide insights into workforce skills, enabling better talent mobility and reskilling initiatives."
-    },
-    {
-      "quadrant": 2,
-      "ring": 3,
-      "label": "gloat",
-      "active": true,
-      "moved": 2,
-      "description": "Gloat offers an AI-powered talent marketplace that connects employees with internal opportunities, fostering career development and organisational agility."
     },
     {
       "quadrant": 2,
