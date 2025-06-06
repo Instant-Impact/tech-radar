@@ -260,6 +260,14 @@
     {
       "quadrant": 3,
       "ring": 3,
+      "label": "loveable.dev",
+      "active": true,
+      "moved": 2,
+      "description": "Create apps and websites by chatting with AI."
+    },
+    {
+      "quadrant": 3,
+      "ring": 3,
       "label": "Vitally.io",
       "active": true,
       "moved": 2,
@@ -280,6 +288,14 @@
       "active": true,
       "moved": 0,
       "description": "An all-in-one workspace that combines note-taking, task management, and database functions, allowing teams to collaborate and organise their work efficiently."
+     },
+    { 
+      "quadrant": 3,
+      "ring": 2,
+      "label": "eq app",
+      "active": true,
+      "moved": 2,
+      "description": "EQbuddy works alongside recruiters and staffing professionals to accelerate research, streamline candidate sourcing, and enhance decision-making with AI-powered insights."
     },
     {
       "quadrant": 3,
