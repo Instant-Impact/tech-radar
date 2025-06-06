@@ -92,34 +92,34 @@
     {
       "quadrant": 2,
       "ring": 3,
-      "label": "retrain.ai",
+      "label": "Seekout",
       "active": true,
       "moved": 2,     
-      "description": "Retrain.ai provides an AI-powered talent intelligence platform that helps organisations identify skill gaps, reskill employees, and optimise workforce planning."
+      "description": "SeekOut's AI-driven talent acquisition and management platform, designed to help organizations source, hire, and retain top talent efficiently."
     },
     {
       "quadrant": 2,
       "ring": 3,
-      "label": "phenom",
+      "label": "Interview Hammer",
       "active": true,
       "moved": 2,
-      "description": "Phenom is a Talent Experience Management (TXM) platform that uses AI to enhance the experiences of candidates, recruiters, employees, and management throughout the talent lifecycle."
+      "description": "Interview Hammer, your intelligent interview AI assistant, listens to your Zoom, Google Meet, and Teams calls, delivering instant answers."
     },
     {
       "quadrant": 2,
       "ring": 3,
-      "label": "HireEz",
+      "label": "GoPerfect",
       "active": true,
       "moved": 2,
-      "description": "HireEz (formerly Hiretual) is an AI-powered outbound recruiting platform that helps recruiters source and engage candidates across various channels efficiently."
+      "description": "Recruit like a superhuman. PerfectAI understands roles, skills, and company fit - delivering top candidates instantly."
     },
     {
       "quadrant": 2,
       "ring": 3,
-      "label": "Findem.ai",
+      "label": "HireGains",
       "active": true,
       "moved": 2,
-      "description": "Findem.ai is a talent acquisition platform that uses AI to help companies discover, engage, and hire candidates based on comprehensive attribute data."
+      "description": "HireGains enables organizations, for talent mobility and acquisition purposes, to understand the unique aspects of their work environment and culture."
     },
     {
       "quadrant": 0,
@@ -172,26 +172,26 @@
     {
       "quadrant": 2,
       "ring": 3,
-      "label": "HiredScore",
+      "label": "CyystalKnows",
       "active": true,
       "moved": 2,
-      "description": "HiredScore is an AI-powered HR technology that integrates with existing systems to enhance talent acquisition and management through data-driven insights and automation."
+      "description": "Crystal is a pre-meeting intelligence platform giving business professionals the intelligence needed to prepare for important meetings."
     },
     {
       "quadrant": 2,
       "ring": 3,
-      "label": "SkyHive",
+      "label": "Gem",
       "active": true,
       "moved": 2,
-      "description": "SkyHive uses artificial intelligence to provide labor market intelligence, helping organisations with workforce planning, reskilling, and talent acquisition strategies."
+      "description": "The only AI-first all-in-one recruiting platform."
     },
     {
       "quadrant": 2,
       "ring": 3,
-      "label": "Noebrain",
+      "label": "cliquify.me",
       "active": true,
       "moved": 2,
-      "description": "Noebrain offers AI-driven solutions for talent assessment and development, focusing on cognitive and behavioral evaluations to enhance hiring and training processes."
+      "description": "Elevate your employer brand effortlessly with Ai."
     },
     {
       "quadrant": 2,
@@ -291,7 +291,7 @@
      },
     { 
       "quadrant": 3,
-      "ring": 2,
+      "ring": 3,
       "label": "eq app",
       "active": true,
       "moved": 2,
@@ -344,6 +344,14 @@
       "active": true,
       "moved": 2,
       "description": "A project management tool that helps teams organise and manage their work, track progress, and collaborate effectively to achieve their goals."
+    },
+    {
+      "quadrant": 3,
+      "ring": 3,
+      "label": "Zenlytic",
+      "active": true,
+      "moved": 2,
+      "description": "Answer the data questions that matter. Just ask."
     },
     {
       "quadrant": 3,
