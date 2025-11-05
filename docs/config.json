@@ -514,6 +514,14 @@
       "description": "HiPeople is a candidate assessment and reference-checking platform that provides automated, in-depth insights on job applicants."
     },
     {
+      "quadrant": 2,
+      "ring": 2,
+      "label": "Findem",
+      "active": true,
+      "moved": 2,
+      "description": "Findem helps recruiting teams find better candidates, move faster and make stronger decisions- powered by our proprietary 3D data."
+    },
+    {
       "quadrant": 1,
       "ring": 0,
       "label": "Rice Framework",
