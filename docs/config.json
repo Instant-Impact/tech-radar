@@ -171,6 +171,14 @@
     },
     {
       "quadrant": 2,
+      "ring": 1,
+      "label": "Joveo",
+      "active": true,
+      "moved": 2,
+      "description": "High-Performance Recruitment Marketing Powered by Agentic AI."
+    },
+    {
+      "quadrant": 2,
       "ring": 3,
       "label": "CyystalKnows",
       "active": true,
@@ -516,10 +524,34 @@
     {
       "quadrant": 2,
       "ring": 2,
+      "label": "Codility",
+      "active": true,
+      "moved": 2,
+      "description": "Online coding test & interview platform for enterprises. Assess technical talent with valid skill-based assessments and interviews.."
+    },
+    {
+      "quadrant": 2,
+      "ring": 2,
+      "label": "HackerRank",
+      "active": true,
+      "moved": 2,
+      "description": "HackerRank is the market-leading coding test and interview solution for hiring developers. Start hiring at the pace of innovation!"
+    },
+    {
+      "quadrant": 2,
+      "ring": 2,
       "label": "Findem",
       "active": true,
       "moved": 2,
       "description": "Findem helps recruiting teams find better candidates, move faster and make stronger decisions- powered by our proprietary 3D data."
+     },
+    {
+      "quadrant": 2,
+      "ring": 2,
+      "label": "BrightHire",
+      "active": true,
+      "moved": 2,
+      "description": "An Interview Intelligence platform that builds hiring plans, generates interview notes and highlights, delivers talent insights & more."
     },
     {
       "quadrant": 1,
