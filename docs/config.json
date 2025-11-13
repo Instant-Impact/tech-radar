@@ -66,16 +66,8 @@
       "description": "A learning management system that provides training and development solutions for employees, helping organisations onboard, train, and develop their teams effectively."
     },
     {
-      "quadrant": 3,
-      "ring": 0,
-      "label": "Hibob",
-      "active": true,
-      "moved": 0,
-      "description": "HiBob is a modern HR platform designed for small and medium-sized businesses, offering features like employee management, payroll, and performance tracking to streamline HR processes."
-    },
-    {
       "quadrant": 2,
-      "ring": 3,
+      "ring": 2,
       "label": "Loxo",
       "active": true,
       "moved": 2,
@@ -83,7 +75,7 @@
     },
     {
       "quadrant": 2,
-      "ring": 3,
+      "ring": 2,
       "label": "Eightfold.ai",
       "active": true,
       "moved": 2,
@@ -214,7 +206,7 @@
       "ring": 0,
       "label": "ArcticShores",
       "active": true,
-      "moved": 2,
+      "moved": 3,
       "description": "Arctic Shores provides behavior-based assessments that combine neuroscience, AI, and game technology to evaluate candidates' potential and fit for roles."
     },
     {
@@ -259,6 +251,14 @@
     },
     {
       "quadrant": 3,
+      "ring": 0,
+      "label": "Claude",
+      "active": true,
+      "moved": 0,
+      "description": "AI assistant built by Anthropic and trained to be safe, accurate, and secure to help you do your best work."
+    },
+    {
+      "quadrant": 3,
       "ring": 3,
       "label": "Perplexity AI",
       "active": true,
@@ -300,10 +300,10 @@
     { 
       "quadrant": 3,
       "ring": 3,
-      "label": "eq app",
+      "label": "NotionAI",
       "active": true,
       "moved": 2,
-      "description": "EQbuddy works alongside recruiters and staffing professionals to accelerate research, streamline candidate sourcing, and enhance decision-making with AI-powered insights."
+      "description": "NotionAi is a connected AI assistant fully integrated into the Notion workspace designed to help users write better, work faster, and automate tasks."
     },
     {
       "quadrant": 3,
@@ -467,7 +467,7 @@
     },
     {
       "quadrant": 2,
-      "ring": 3,
+      "ring": 2,
       "label": "TestGorillas",
       "active": true,
       "moved": 2,
