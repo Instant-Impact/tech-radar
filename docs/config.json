@@ -451,7 +451,7 @@
     },
     {
       "quadrant": 2,
-      "ring": 3,
+      "ring": 2,
       "label": "DISC",
       "active": true,
       "moved": 2,
@@ -515,7 +515,7 @@
     },
     {
       "quadrant": 2,
-      "ring": 2,
+      "ring": 1,
       "label": "HiPeople",
       "active": true,
       "moved": 2,
@@ -531,7 +531,7 @@
     },
     {
       "quadrant": 2,
-      "ring": 2,
+      "ring": 0,
       "label": "HackerRank",
       "active": true,
       "moved": 2,
