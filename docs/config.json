@@ -499,7 +499,7 @@
     },
     {
       "quadrant": 2,
-      "ring": 2,
+      "ring": 0,
       "label": "Bryq",
       "active": true,
       "moved": 2,
