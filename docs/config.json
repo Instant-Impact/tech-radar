@@ -523,7 +523,7 @@
     },
     {
       "quadrant": 2,
-      "ring": 2,
+      "ring": 1,
       "label": "Codility",
       "active": true,
       "moved": 2,
